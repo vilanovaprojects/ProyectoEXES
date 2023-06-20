@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="064cb737-185e-4f04-8110-8141d5af7ebe" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:56872/MeteoService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MeteoService.disco" MetadataType="Disco" ID="a923af5f-b452-41c1-b5fc-f1a73bc50c83" SourceId="1" SourceUrl="http://localhost:56872/MeteoService.svc?disco" />
+    <MetadataFile FileName="MeteoService.xsd" MetadataType="Schema" ID="5e111405-5604-47c5-a915-ac3c15c82008" SourceId="1" SourceUrl="http://localhost:56872/MeteoService.svc?xsd=xsd0" />
+    <MetadataFile FileName="MeteoService.wsdl" MetadataType="Wsdl" ID="cd9c31b9-27de-45a4-bb73-31b3acd64504" SourceId="1" SourceUrl="http://localhost:56872/MeteoService.svc?wsdl" />
+    <MetadataFile FileName="MeteoService1.xsd" MetadataType="Schema" ID="8ce02251-8934-4008-96c2-5062b2aa41b6" SourceId="1" SourceUrl="http://localhost:56872/MeteoService.svc?xsd=xsd1" />
+    <MetadataFile FileName="MeteoService2.xsd" MetadataType="Schema" ID="fc2b7a8d-6f08-445d-8634-7d270c686b6b" SourceId="1" SourceUrl="http://localhost:56872/MeteoService.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

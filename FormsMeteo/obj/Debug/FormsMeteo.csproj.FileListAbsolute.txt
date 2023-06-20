@@ -1,0 +1,12 @@
+C:\Users\Moises\OneDrive\Documentos\EXES\UD003 CURSO EN .NET, COBOL, PHP, PLSQL\Proyecto\FormsMeteo\bin\Debug\FormsMeteo.exe.config
+C:\Users\Moises\OneDrive\Documentos\EXES\UD003 CURSO EN .NET, COBOL, PHP, PLSQL\Proyecto\FormsMeteo\bin\Debug\FormsMeteo.exe
+C:\Users\Moises\OneDrive\Documentos\EXES\UD003 CURSO EN .NET, COBOL, PHP, PLSQL\Proyecto\FormsMeteo\bin\Debug\FormsMeteo.pdb
+C:\Users\Moises\OneDrive\Documentos\EXES\UD003 CURSO EN .NET, COBOL, PHP, PLSQL\Proyecto\FormsMeteo\obj\Debug\FormsMeteo.csproj.AssemblyReference.cache
+C:\Users\Moises\OneDrive\Documentos\EXES\UD003 CURSO EN .NET, COBOL, PHP, PLSQL\Proyecto\FormsMeteo\obj\Debug\FormsMeteo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Moises\OneDrive\Documentos\EXES\UD003 CURSO EN .NET, COBOL, PHP, PLSQL\Proyecto\FormsMeteo\obj\Debug\FormsMeteo.Form1.resources
+C:\Users\Moises\OneDrive\Documentos\EXES\UD003 CURSO EN .NET, COBOL, PHP, PLSQL\Proyecto\FormsMeteo\obj\Debug\FormsMeteo.Properties.Resources.resources
+C:\Users\Moises\OneDrive\Documentos\EXES\UD003 CURSO EN .NET, COBOL, PHP, PLSQL\Proyecto\FormsMeteo\obj\Debug\FormsMeteo.csproj.GenerateResource.cache
+C:\Users\Moises\OneDrive\Documentos\EXES\UD003 CURSO EN .NET, COBOL, PHP, PLSQL\Proyecto\FormsMeteo\obj\Debug\FormsMeteo.csproj.CoreCompileInputs.cache
+C:\Users\Moises\OneDrive\Documentos\EXES\UD003 CURSO EN .NET, COBOL, PHP, PLSQL\Proyecto\FormsMeteo\obj\Debug\FormsMeteo.exe
+C:\Users\Moises\OneDrive\Documentos\EXES\UD003 CURSO EN .NET, COBOL, PHP, PLSQL\Proyecto\FormsMeteo\obj\Debug\FormsMeteo.pdb
+C:\Users\Moises\OneDrive\Documentos\EXES\UD003 CURSO EN .NET, COBOL, PHP, PLSQL\Proyecto\FormsMeteo\obj\Debug\FormsMeteo.FormLogIn.resources

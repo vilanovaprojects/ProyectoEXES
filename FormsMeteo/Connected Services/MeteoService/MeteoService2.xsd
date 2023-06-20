@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="UserDetails">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="password" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="userName" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="UserDetails" nillable="true" type="tns:UserDetails" />
+  <xs:complexType name="Meteo">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Comentarios" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="FechaPrevision" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="Humedad" type="xs:decimal" />
+      <xs:element minOccurs="0" name="Mapa" nillable="true" type="xs:base64Binary" />
+      <xs:element minOccurs="0" name="Precipitaciones" type="xs:int" />
+      <xs:element minOccurs="0" name="Provincia" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TempMax" type="xs:decimal" />
+      <xs:element minOccurs="0" name="TempMin" type="xs:decimal" />
+      <xs:element minOccurs="0" name="Valoracion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Viento" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Meteo" nillable="true" type="tns:Meteo" />
+  <xs:complexType name="ArrayOfMeteo">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Meteo" nillable="true" type="tns:Meteo" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfMeteo" nillable="true" type="tns:ArrayOfMeteo" />
+</xs:schema>

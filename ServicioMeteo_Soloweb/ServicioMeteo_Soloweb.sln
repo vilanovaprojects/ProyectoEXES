@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ServicioMeteo_Soloweb", ".", "{D41B7CEB-7E99-440E-9CC9-58ED2DB61B8D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_55750"
+		Debug.AspNetCompiler.PhysicalPath = "..\ServicioMeteo_Soloweb\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55750\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_55750"
+		Release.AspNetCompiler.PhysicalPath = "..\ServicioMeteo_Soloweb\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55750\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55750"
+		SlnRelativePath = "..\ServicioMeteo_Soloweb\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D41B7CEB-7E99-440E-9CC9-58ED2DB61B8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D41B7CEB-7E99-440E-9CC9-58ED2DB61B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2846A30C-EDF2-4711-BD04-907E0CDD2ACF}
+	EndGlobalSection
+EndGlobal
